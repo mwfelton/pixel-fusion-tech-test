@@ -5,10 +5,10 @@ import { faMessage, faUserGroup, faLaptopCode } from '@fortawesome/free-solid-sv
 
 function Sidebar() {
     return (
-        <aside className="h-screen w-16 bg-white border-r border-gray-300 flex flex-col items-center py-4">
+        <aside className="absolute top-0 left-0 z-50 h-screen w-16 bg-white border-r border-gray-300 flex flex-col items-center">
             {/* Logo Section */}
-            <NavLink to="/" className="mb-8">
-                <div className="h-12 w-12 bg-gray-200 rounded-full flex items-center justify-center">
+            <NavLink to="/" className="py-4">
+                <div className="h-12 w-12 flex items-center justify-center">
                     <FontAwesomeIcon icon={faLaptopCode} className="text-gray-700 text-lg" />
                 </div>
             </NavLink>
