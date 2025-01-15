@@ -24,7 +24,7 @@ function Sidebar() {
                 </NavLink>
 
                 {/* User Group Icon */}
-                <NavLink to="/user-group" className="hover:text-blue-500">
+                <NavLink to="/user-page" className="hover:text-blue-500">
                     <FontAwesomeIcon icon={faUserGroup} className="text-gray-700 text-2xl" />
                 </NavLink>
             </nav>
