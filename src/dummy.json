@@ -1,0 +1,63 @@
+[
+    {
+      "userId": "CS29039",
+      "name": "Clark Noobie",
+      "messages": [
+        {
+          "messageId": "1",
+          "from": "Miles Gerber",
+          "content": "Hey Clark, how's it going? Let's catch up soon!",
+          "date": "2025-01-05",
+          "time": "14:30"
+        },
+        {
+          "messageId": "2",
+          "from": "Max Power",
+          "content": "Clark, don't forget about the meeting tomorrow!",
+          "date": "2025-01-02",
+          "time": "09:00"
+        }
+      ]
+    },
+    {
+      "userId": "CS29040",
+      "name": "Miles Gerber",
+      "messages": [
+        {
+          "messageId": "1",
+          "from": "Clark Noobie",
+          "content": "Hi Miles, got the report? Let's finalize it today.",
+          "date": "2025-01-03",
+          "time": "16:45"
+        },
+        {
+          "messageId": "2",
+          "from": "Max Power",
+          "content": "Miles, can you review the proposal by Friday?",
+          "date": "2025-01-07",
+          "time": "10:00"
+        }
+      ]
+    },
+    {
+      "userId": "CS29041",
+      "name": "Max Power",
+      "messages": [
+        {
+          "messageId": "1",
+          "from": "Clark Noobie",
+          "content": "Max, I need your feedback on the project.",
+          "date": "2025-01-06",
+          "time": "11:30"
+        },
+        {
+          "messageId": "2",
+          "from": "Miles Gerber",
+          "content": "Max, are you available for a call later today?",
+          "date": "2025-01-04",
+          "time": "15:15"
+        }
+      ]
+    }
+  ]
+  

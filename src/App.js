@@ -6,15 +6,15 @@ import Messages from './pages/Messages/Messages';
 import Userpage from './pages/UserPage/Userpage';
 
 function App() {
-    return (
-        <Layout>
-            <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/messages" element={<Messages />} />
-                <Route path="/user-page" element={<Userpage />} />
-            </Routes>
-        </Layout>
-    );
+  return (
+    <Layout>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/messages" element={<Messages />} />
+        <Route path="/user-page" element={<Userpage />} />
+      </Routes>
+    </Layout>
+  );
 }
 
 export default App;
